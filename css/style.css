@@ -1,0 +1,20 @@
+span {
+    font-weight: normal;
+    color: blue;
+}
+
+div {
+    color: darkorange;
+    font-style: italic;
+    border: 2px solid black;
+    padding: 3px;
+}
+
+article {
+    border: inherit;
+    padding: inherit;
+}
+
+h1, p {
+    display: initial;
+}
